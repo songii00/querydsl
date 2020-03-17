@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 @Transactional
-//@Commit 테스트 끝날때 커밋해서 디비에 저장 
+//@Commit 테스트 끝날때 커밋해서 디비에 저장
 class MemberTest {
 
     @Autowired
